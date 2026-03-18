@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/iamrajank/LeetCode-Solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/iamrajank/LeetCode-Solution/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/1486-xor-operation-in-an-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/iamrajank/LeetCode-Solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/iamrajank/LeetCode-Solution/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iamrajank/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1486-xor-operation-in-an-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/1486-xor-operation-in-an-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/iamrajank/LeetCode-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2083-three-divisors](https://github.com/iamrajank/LeetCode-Solution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
