@@ -3,7 +3,6 @@
 
 class Solution:
     def firstBadVersion(self, n: int) -> int:
-
         l, h = 1, n
         while l < h:
             mid = l + (h-l) //2
@@ -12,5 +11,4 @@ class Solution:
             else:
                 l = mid + 1
         return l
-        
         
