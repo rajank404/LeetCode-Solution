@@ -1,20 +1,19 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        INT_MAX = 2**31 - 1
-        INT_MIN = -2**31
+        int_min = -2**31
+        int_max = 2**31 - 1
         result = 0
-        x_isnegative = x < 0
-        if x_isnegative:
-            x = -x
+        n_isneg = x < 0
+        if n_isneg:
+            x = - x
         while x > 0:
             digit = x % 10
             result = result * 10 + digit
             x = x // 10
-            if result > INT_MAX or result < INT_MIN:
+            if result > int_max or result < int_min:
                 return 0
-        if x_isnegative:
+        if n_isneg:
             result = -result
         return result
-            
-        
+		    
         
