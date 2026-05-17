@@ -1,17 +1,40 @@
 class Solution:
-    def searchRange(self, nums: List[int], target: int) -> List[int]:
+    def searchRange(self, arr: List[int], target: int) -> List[int]:
 
-        # Brute Force
-        temp = []
-        for i in range(len(nums)):
-            if nums[i] == target:
-                temp.append(i)
-                break
-        for i in range(len(nums) -1,-1,-1):
-            if nums[i] == target:
-                temp.append(i)
-                break
-        if len(temp) == 0:
+        l = 0
+        h = len(arr)-1
+        first = -1
+        while l <= h:
+            mid = l + (h-l)//2
+            if arr[mid] == target:
+                first = mid
+                h = mid - 1
+            elif arr[mid] > target:
+                h = mid - 1
+            else:
+                l = mid + 1
+
+
+        l = 0
+        h = len(arr)-1
+        last = -1
+        while l <= h:
+            mid = l + (h-l)//2
+            if arr[mid] == target:
+                last = mid
+                l = mid + 1
+            elif arr[mid] > target:
+                h = mid - 1
+            else:
+                l = mid + 1
+        if last == -1:
             return [-1,-1]
-        return temp
+        else:
+            return [first,last]
+
+        
+
+        
+     
+        
         
