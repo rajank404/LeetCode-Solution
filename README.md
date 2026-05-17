@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/iamrajank/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/iamrajank/LeetCode-Solution/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0704-binary-search](https://github.com/iamrajank/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/iamrajank/LeetCode-Solution/tree/master/0792-binary-search) |
 | [0952-word-subsets](https://github.com/iamrajank/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/iamrajank/LeetCode-Solution/tree/master/1044-find-common-characters) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/iamrajank/LeetCode-Solution/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/iamrajank/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/iamrajank/LeetCode-Solution/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamrajank/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
