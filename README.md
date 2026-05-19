@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/iamrajank/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/iamrajank/LeetCode-Solution/tree/master/2540-minimum-common-value) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/iamrajank/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/iamrajank/LeetCode-Solution/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/iamrajank/LeetCode-Solution/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamrajank/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1904-second-largest-digit-in-a-string](https://github.com/iamrajank/LeetCode-Solution/tree/master/1904-second-largest-digit-in-a-string) |
+| [2540-minimum-common-value](https://github.com/iamrajank/LeetCode-Solution/tree/master/2540-minimum-common-value) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/iamrajank/LeetCode-Solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/iamrajank/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamrajank/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/iamrajank/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/iamrajank/LeetCode-Solution/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/iamrajank/LeetCode-Solution/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamrajank/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/iamrajank/LeetCode-Solution/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
