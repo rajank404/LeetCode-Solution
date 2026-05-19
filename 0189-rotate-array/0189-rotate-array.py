@@ -1,27 +1,29 @@
 class Solution:
-    def rotate(self, arr: List[int], d: int) -> None:
+    def rotate(self, nums: List[int], k: int) -> None:
         """
         Do not return anything, modify nums in-place instead.
         """
-        n = len(arr)
-        d = d % n
-        i = 0
-        j = n - d - 1
-        while i < j:
-            arr[i],arr[j] = arr[j],arr[i]
-            i = i + 1
-            j = j - 1
-        i = n - d
-        j = n-1
-        while i < j:
-            arr[i],arr[j] = arr[j],arr[i]
-            i = i + 1
-            j = j - 1
-        i = 0
-        j = n - 1
-        while i < j:
-            arr[i],arr[j] = arr[j],arr[i]
-            i = i + 1
-            j = j - 1
-        return arr
+        n = len(nums)
+        k = k % n
+        l = 0
+        h = n-k-1
+        while l < h:
+            nums[l],nums[h] = nums[h],nums[l]
+            l = l + 1
+            h = h - 1
+        l = n-k
+        h = len(nums) - 1
+        while l < h:
+            nums[l],nums[h] = nums[h],nums[l]
+            l = l + 1
+            h = h - 1
+        l = 0
+        h = len(nums)-1
+        while l < h:
+            nums[l],nums[h] = nums[h],nums[l]
+            l = l + 1
+            h = h - 1
+        return nums
+
+
         
